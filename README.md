@@ -3,7 +3,7 @@ This project involves building a machine learning model to predict future stock 
 🎯 Objective:
 To develop a predictive model that can forecast stock prices based on historical data using LSTM deep learning architecture.
 
-🧰 Tools & Technologies:
+Tools :
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Keras (TensorFlow backend)
@@ -48,4 +48,4 @@ The model successfully learns stock price trends and provides close predictions.
 
 Visual comparison between actual vs predicted values shows good alignment for short-term forecasting.
 
-Made by Rohan A M
+**Made by Rohan A M**
